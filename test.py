@@ -1,5 +1,5 @@
 while 1:
-	num = int(input("Prime factors of:\n"))
+	num = int(input("Prime factors of-:\n"))
 	prime_div = []
 	div = 6
 	while num > 1:
